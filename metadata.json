@@ -1,0 +1,6 @@
+{
+  "name": "Professional Catalogue Generator",
+  "description": "Generate professional image catalogues from PDF templates and ZIP/PDF image collections with customizable layout boundaries and presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
